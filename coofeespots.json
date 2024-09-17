@@ -3,7 +3,7 @@
     "name": "Fawory",
     "description": "A cozy cafe with the best lattes in town.",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/fawory.jpeg",
-    "categories": ["espresso", "filter", "chemex", "drip", "aeropress", "cold brew"],
+    "categories": ["espresso", "filter", "chemex", "cold brew"],
     "latitude": 52.26264876336864,
     "longitude": 20.99232071266968
   },
