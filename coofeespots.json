@@ -1,7 +1,7 @@
 [
   {
     "name": "Fawory",
-    "description": "A cozy cafe with the best lattes in town.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/fawory.jpeg",
     "categories": ["espresso", "filter", "chemex", "cold brew"],
     "latitude": 52.26264876336864,
@@ -9,7 +9,7 @@
   },
   {
     "name": "Serwis Cafe&Pub",
-    "description": "Specializing in strong espressos and quick bites.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/serwis-e1727089124442.jpeg",
     "categories": ["espresso", "drip"],
     "latitude": 50.25652755206695,
@@ -18,7 +18,7 @@
   },
   {
     "name": "Uno",
-    "description": "Relax and enjoy a wide selection of teas.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/uno-e1727089093968.jpeg",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.41112718608853,
