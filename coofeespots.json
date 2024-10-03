@@ -28,5 +28,15 @@
     "longitude": 16.901402918529055,
     "googleMapsLink": "https://maps.app.goo.gl/kqruLEfHCx6Sw9f37"
     
+  },
+  {
+    "name": "Buno Specialty Coffee",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "",
+    "categories": ["cold brew", "aeropress", "espresso"],
+    "latitude": 52.246375771769586,
+    "longitude": 20.963118691330084,
+    "googleMapsLink": "https://maps.app.goo.gl/kzFKAbqyQfd3YacB7"
+    
   }
 ]
