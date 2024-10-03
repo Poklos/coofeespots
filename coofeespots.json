@@ -39,4 +39,14 @@
     "googleMapsLink": "https://maps.app.goo.gl/kzFKAbqyQfd3YacB7"
     
   }
+  {
+    "name": "Balance Speciality Coffee",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "image": "",
+    "categories": ["cold brew", "aeropress", "espresso"],
+    "latitude": 52.24473978229449,
+    "longitude": 20.96434081358756,
+    "googleMapsLink": "https://maps.app.goo.gl/BFqmffdyLZ1id4YE8"
+
+  }
 ]
