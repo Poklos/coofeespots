@@ -2,51 +2,61 @@
   {
     "name": "Fawory",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "hours": 8-19,
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/fawory.jpeg",
     "categories": ["espresso", "filter", "chemex", "cold brew"],
     "latitude": 52.26264876336864,
     "longitude": 20.99232071266968, 
-    "googleMapsLink": "https://maps.app.goo.gl/pVQHVBXTMG7dbF2E8"
+    "googleMapsLink": "https://maps.app.goo.gl/pVQHVBXTMG7dbF2E8",
+    "favourite": true
   },
   {
     "name": "Serwis Cafe&Pub",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "hours": 12-21,
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/serwis-e1727089124442.jpeg",
     "categories": ["espresso", "drip"],
     "latitude": 50.25652755206695,
     "longitude": 19.019624876179417,
-    "googleMapsLink": "https://maps.app.goo.gl/wGC2RGi2b3ox7TFD7"
+    "googleMapsLink": "https://maps.app.goo.gl/wGC2RGi2b3ox7TFD7",
+    "favourite": false
    
 
   },
   {
     "name": "Uno",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "hours": 8-19,
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/uno-e1727089093968.jpeg",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.41112718608853,
     "longitude": 16.901402918529055,
     "googleMapsLink": "https://maps.app.goo.gl/kqruLEfHCx6Sw9f37"
+    "favourite": true
     
   },
   {
     "name": "Buno Specialty Coffee",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "hours": 8-23,
     "image": "",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.246375771769586,
     "longitude": 20.963118691330084,
-    "googleMapsLink": "https://maps.app.goo.gl/kzFKAbqyQfd3YacB7"
+    "googleMapsLink": "https://maps.app.goo.gl/kzFKAbqyQfd3YacB7",
+    "favourite": true
     
   },
   {
     "name": "Balance Speciality Coffee",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "hours": 9-19,
     "image": "",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.24473978229449,
     "longitude": 20.96434081358756,
-    "googleMapsLink": "https://maps.app.goo.gl/BFqmffdyLZ1id4YE8"
+    "googleMapsLink": "https://maps.app.goo.gl/BFqmffdyLZ1id4YE8",
+    "favourite": true
 
   }
 ]
