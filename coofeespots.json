@@ -2,7 +2,7 @@
   {
     "name": "Fawory",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "hours": 8-19,
+    "hours": "8-19",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/fawory.jpeg",
     "categories": ["espresso", "filter", "chemex", "cold brew"],
     "latitude": 52.26264876336864,
@@ -13,7 +13,7 @@
   {
     "name": "Serwis Cafe&Pub",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "hours": 12-21,
+    "hours": "12-21",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/serwis-e1727089124442.jpeg",
     "categories": ["espresso", "drip"],
     "latitude": 50.25652755206695,
@@ -26,7 +26,7 @@
   {
     "name": "Uno",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "hours": 8-19,
+    "hours": "8-19",
     "image": "https://kopiujwklej.net/wp-content/uploads/2024/09/uno-e1727089093968.jpeg",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.41112718608853,
@@ -38,7 +38,7 @@
   {
     "name": "Buno Specialty Coffee",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "hours": 8-23,
+    "hours": "8-23",
     "image": "",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.246375771769586,
@@ -50,7 +50,7 @@
   {
     "name": "Balance Speciality Coffee",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    "hours": 9-19,
+    "hours": "9-19",
     "image": "",
     "categories": ["cold brew", "aeropress", "espresso"],
     "latitude": 52.24473978229449,
